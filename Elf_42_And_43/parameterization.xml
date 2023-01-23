@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<parameter name="Name" value="Selenium"></parameter>
+  <test thread-count="5" name="Test">
+  <!-- <parameter name="RandomData" value="ELF42_43"></parameter> -->
+    <classes>
+      <class name="bikes.TC_Bikes_013"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

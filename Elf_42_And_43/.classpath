@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="jars/selenium-server-standalone-3.141.59 (2).jar" sourcepath="C:/Users/user/Downloads/selenium-java-3.141.59 (1)/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="jars/commons-io-2.11.0 (2).jar"/>
+	<classpathentry kind="lib" path="jars/POI/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="jars/POI/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="jars/POI/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="jars/POI/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="jars/POI/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="jars/POI/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="jars/POI/curvesapi-1.07.jar"/>
+	<classpathentry kind="lib" path="jars/POI/jakarta.activation-2.0.1.jar"/>
+	<classpathentry kind="lib" path="jars/POI/jakarta.xml.bind-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="jars/POI/log4j-api-2.18.0.jar"/>
+	<classpathentry kind="lib" path="jars/POI/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="jars/POI/poi-examples-5.2.3.jar"/>
+	<classpathentry kind="lib" path="jars/POI/poi-excelant-5.2.3.jar"/>
+	<classpathentry kind="lib" path="jars/POI/poi-javadoc-5.2.3.jar"/>
+	<classpathentry kind="lib" path="jars/POI/poi-ooxml-5.2.3.jar"/>
+	<classpathentry kind="lib" path="jars/POI/poi-ooxml-full-5.2.3.jar"/>
+	<classpathentry kind="lib" path="jars/POI/poi-ooxml-lite-5.2.3.jar"/>
+	<classpathentry kind="lib" path="jars/POI/poi-scratchpad-5.2.3.jar"/>
+	<classpathentry kind="lib" path="jars/POI/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="jars/POI/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="jars/POI/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
